@@ -1,0 +1,7 @@
+en:
+  resource:
+    user_defined:
+      string_1: Catalog ID
+  digital_object:
+    user_defined:
+      enum_1: DAO Type

@@ -1,0 +1,37 @@
+en:
+  enumerations:
+    accession_acquisition_type:
+      loan: Loan
+      web_capture: Web Capture
+    digital_object_digital_object_type:
+      web_archive: Web Archive
+    event_event_type:
+      conservation: Conservation
+      digitization: Digitization
+      loaned: Loaned
+      loan_returned: Loan Returned
+      materials_received: Materials Received
+      processing_adds: Processing Additions
+      processing_done: Processing Done
+      processing_enhancements: Processing Enhancements
+      processing_review: Processing Review
+    name_source:
+      lcsh: Library of Congress Subject Headings
+      snac: Social Networks and Archival Context
+    resource_finding_aid_description_rules:
+      rda: Resource Description and Access
+    resource_finding_aid_status:
+      published: Published
+      catonly: CAT only
+      deaccessioned: Deaccessioned
+      do_not_post: Do Not Post
+      needs_attention: Needs Attention
+      please_post: Please Post
+      please_review: Please Review
+    subject_source:
+      pbcore: PBCore
+    user_defined_enum_1:
+      access: Access
+      preservation: Preservation
+  enumeration_names:
+    user_defined_enum_1: Digital Object DAO Type
