@@ -6,7 +6,7 @@ en:
     title: Archival Collections
     welcome_head: "Penn State University Libraries Special Collections & Archives"
     welcome_message: >
-      <p>The Special Collections Library contains over 200,000 <em>books</em> as well as non-book <em>items</em> such as diaries, scrapbooks, and maps. These items can be found in <a href=\"https://catalog.libraries.psu.edu\">the University Libraries Catalog</a>.</p>
+      <p>The Special Collections Library contains over 200,000 <em>books</em> as well as non-book <em>items</em> such as diaries, scrapbooks, and maps. These items can be found in <a href="https://catalog.libraries.psu.edu">the University Libraries Catalog</a>.</p>
       <p>We also house several thousand <em>non-book collections</em>. Collections might consist of the records of an organization, the collected papers of an individual, correspondence between family members, or a collector's systematic accumulation of material on a specific topic. </p>
       <p>Collections are described in summary catalog records, but they are also described in more detail by <em>finding aids</em>. A finding aid contains information on the person or organization that created the records, the organization of the collection, and a folder listing.</p>
       <p><strong>Please note that some of our collections are housed offsite and require advance notification for retrieval.</strong></p>
