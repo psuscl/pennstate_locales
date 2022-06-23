@@ -5,3 +5,8 @@ en:
   digital_object:
     user_defined:
       enum_1: DAO Type
+      enum_1_tooltip: |
+        <p>The purpose seved by this digital object. Generally, whether it is for access (published in CONTENTdm, Archive-It, or other access platform) or preservation (managed in LIBNOVA).</p>
+      enum_2: Level of Preservation
+      enum_2_tooltip: |
+        <p>The Level of Preservation assigned to this digital object, in accordance with PSU's Digital Preservation Policy.</p>

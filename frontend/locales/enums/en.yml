@@ -33,5 +33,11 @@ en:
     user_defined_enum_1:
       access: Access
       preservation: Preservation
+    user_defined_enum_2:
+      "0": Level 0 Digital Preservation Commitment
+      "1": Level 1 Digital Preservation Commitment
+      "2": Level 2 Digital Preservation Commitment
+      "3": Level 3 Digital Preservation Commitment
   enumeration_names:
     user_defined_enum_1: Digital Object DAO Type
+    user_defined_enum_2: Digital Object Level of Preservation
