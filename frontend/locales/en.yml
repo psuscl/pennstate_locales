@@ -10,3 +10,7 @@ en:
       enum_2: Level of Preservation
       enum_2_tooltip: |
         <p>The Level of Preservation assigned to this digital object, in accordance with PSU's Digital Preservation Policy.</p>
+  top_container:
+    ils_holding_id: Location Code
+    ils_holding_id_tooltip: |
+      <p>The code indicating the shelf location where this container may be found. Sent to Aeon when an item is requested.</p>
