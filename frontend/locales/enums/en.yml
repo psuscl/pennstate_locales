@@ -3,6 +3,9 @@ en:
     accession_acquisition_type:
       loan: Loan
       web_capture: Web Capture
+    container_type:
+      cassette: Cassette
+      disc: Disc
     digital_object_digital_object_type:
       web_archive: Web Archive
     event_event_type:
@@ -15,6 +18,8 @@ en:
       processing_done: Processing Done
       processing_enhancements: Processing Enhancements
       processing_review: Processing Review
+    extent_extent_type:
+      disc: Discs
     name_source:
       lcsh: Library of Congress Subject Headings
       snac: Social Networks and Archival Context
@@ -25,6 +30,8 @@ en:
       catonly: CAT only
       deaccessioned: Deaccessioned
       do_not_post: Do Not Post
+      in_progress: In Progress
+      minimal: Minimal Record
       needs_attention: Needs Attention
       please_post: Please Post
       please_review: Please Review
