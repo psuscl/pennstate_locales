@@ -18,6 +18,8 @@ en:
       processing_done: Processing Done
       processing_enhancements: Processing Enhancements
       processing_review: Processing Review
+      sip_submitted: SIP Submitted
+      transfer_request: University Archives Transfer Request
     extent_extent_type:
       disc: Discs
     name_source:
