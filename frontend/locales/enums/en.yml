@@ -3,6 +3,11 @@ en:
     accession_acquisition_type:
       loan: Loan
       web_capture: Web Capture
+    collection_management_processing_status:
+      additional_review: Additional Review Requested
+      cat_only: CAT Only
+      enhance: Enhancements Requested
+      on_hold: On Hold
     container_type:
       cassette: Cassette
       disc: Disc
