@@ -19,10 +19,12 @@ en:
       loaned: Loaned
       loan_returned: Loan Returned
       materials_received: Materials Received
+      package_scan: Package Scan
       processing_adds: Processing Additions
       processing_done: Processing Done
       processing_enhancements: Processing Enhancements
       processing_review: Processing Review
+      sip_ingested: SIP Ingested
       sip_submitted: SIP Submitted
       transfer_request: University Archives Transfer Request
     extent_extent_type:
