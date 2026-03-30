@@ -31,8 +31,11 @@ en:
       transfer_request: University Archives Transfer Request
     extent_extent_type:
       disc: Discs
+      items: Items
     linked_agent_archival_record_relators:
       cur: Curator
+    location_temporary:
+      shelving_upgrade: GST Shelving Upgrade
     name_source:
       lcsh: Library of Congress Subject Headings
       snac: Social Networks and Archival Context
