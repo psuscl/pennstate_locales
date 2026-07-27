@@ -39,6 +39,7 @@ en:
     name_source:
       lcsh: Library of Congress Subject Headings
       snac: Social Networks and Archival Context
+      wikidata: WikiData
     resource_finding_aid_description_rules:
       rda: Resource Description and Access
     resource_finding_aid_status:
